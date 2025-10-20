@@ -110,3 +110,5 @@ save_button = tk.Button(root, text="Save to DB", command=save_entry)
 save_button.pack(pady=10)
 
 root.mainloop()
+
+# adding 1st command in master branch
